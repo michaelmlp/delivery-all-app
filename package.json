@@ -1,6 +1,6 @@
 {
   "name": "meat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "angular-cli": {},
   "scripts": {
@@ -26,12 +26,12 @@
     "core-js": "2.4.1",
     "font-awesome": "4.7.0",
     "intl": "1.2.5",
-    "jquery": "^3.5.0",
+    "jquery": "3.2.1",
     "reflect-metadata": "0.1.9",
     "rxjs": "5.1.0",
     "ts-helpers": "1.1.2",
     "web-animations-js": "^2.2.5",
-    "zone.js": "0.8.4"
+    "zone.js": "0.10.3"
   },
   "devDependencies": {
     "@angular/cli": "1.2.7",
